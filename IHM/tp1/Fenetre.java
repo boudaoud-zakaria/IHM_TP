@@ -4,7 +4,6 @@ import javax.swing.JPanel;
 import javax.swing.JButton;
 import java.awt.Color;
 import java.awt.BorderLayout;
-import java.awt.Button;
 
 
 public class Fenetre extends JFrame{
