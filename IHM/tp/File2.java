@@ -7,7 +7,7 @@ import javax.swing.JButton;
 public class File2 extends JFrame{
     File2(){
         JPanel p = new JPanel();
-        this.setTitle("anfel");
+        this.setTitle("hello");
         this.setSize(500,500 );
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JButton Button1 =new JButton("click");
